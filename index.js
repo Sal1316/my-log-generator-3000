@@ -8,7 +8,7 @@ const questions = [
             type: "input",
             name: "text",
             message: chalk.green("Enter up to 3 characters"),
-            default: 'ABC'
+            default: 'SAL'
 
       },
       {
