@@ -29,6 +29,8 @@
 
 - GitHub url: https://github.com/Sal1316/my-log-generator-3000
 
+- Video walkthrough link: https://drive.google.com/file/d/1QsWtTorpbrkQM3p23HYHyMZhwSeQzs35/view
+
 ## Features
 
 - This project does not have to many features, but some are that is uses, 'Inquirer' and 'Jest'.
